@@ -1,0 +1,1032 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All In One Woo Cart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-19 21:21+0000\n"
+"PO-Revision-Date: 2024-09-19 21:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: taiowc"
+
+#: inc/themehunk-menu/th-option/th-option.php:147
+msgid "Activate Now"
+msgstr "Activar Ahora"
+
+#: inc/themehunk-menu/th-option/th-option.php:118
+msgid "Activated"
+msgstr "Activado"
+
+#: inc/taiowc-setting.php:777
+msgid "Add Media"
+msgstr "Agregar Medios"
+
+#: inc/taiowc-option.php:166
+msgid "Add Product at the Bottom (Pro)"
+msgstr "Agregar Producto al Final (Pro)"
+
+#: inc/taiowc-option.php:164
+msgid "Add Product at the Top"
+msgstr "Agregar Producto al Principio"
+
+#: inc/taiowc-option.php:208
+msgid ""
+"Add URL to which you want to redirect user in case of empty cart. By default "
+"user will be redirected to shop page."
+msgstr ""
+"Agregue la URL a la que desea redirigir al usuario en caso de que el carrito "
+"esté vacío. Por defecto, el usuario será redirigido a la página de la tienda."
+
+#: inc/taiowc-option.php:945
+msgid "Added Coupon BG Color"
+msgstr "Color de Fondo del Cupón Agregado"
+
+#: inc/taiowc-option.php:959
+msgid "Added Coupon Cross Color"
+msgstr "Color de la Cruz del Cupón Agregado"
+
+#: inc/taiowc-option.php:952
+msgid "Added Coupon Text Color"
+msgstr "Color del Texto del Cupón Agregado"
+
+#: inc/taiowc-setting.php:36
+msgid "AIO Woo Cart"
+msgstr "AIO Woo Cart"
+
+#. Name of the plugin
+msgid "All In One Woo Cart"
+msgstr "Todo en Uno Woo Cart"
+
+#: inc/taiowc-option.php:445
+msgid "Apply"
+msgstr "Aplicar"
+
+#: inc/taiowc-option.php:444
+msgid "Apply Coupon Button Text"
+msgstr "Texto del Botón Aplicar Cupón"
+
+#: inc/taiowc-setting.php:96
+msgid "Are you sure to reset current settings?"
+msgstr "¿Está seguro de restablecer las configuraciones actuales?"
+
+#: inc/taiowc-option.php:240
+msgid "Auto Open with Ajax"
+msgstr "Apertura Automática con Ajax"
+
+#: inc/taiowc-option.php:241
+msgid "Auto Open with Image fly Effect (Pro)"
+msgstr "Apertura Automática con Efecto Fly de Imagen (Pro)"
+
+#: inc/taiowc-option.php:198
+msgid "Back To Shop"
+msgstr "Volver a la Tienda"
+
+#: inc/taiowc-option.php:534
+msgid "Background Color"
+msgstr "Color de Fondo"
+
+#: inc/taiowc-option.php:146
+msgid "Basket Count"
+msgstr "Contador de Cesta"
+
+#: inc/taiowc-option.php:819
+msgid "BG Color"
+msgstr "Color de Fondo"
+
+#: inc/taiowc-option.php:588
+msgid "Border Radius"
+msgstr "Radio del Borde"
+
+#: inc/taiowc-option.php:841
+msgid "Button BG Color"
+msgstr "Color de Fondo del Botón"
+
+#: inc/taiowc-option.php:848
+msgid "Button Color"
+msgstr "Color del Botón"
+
+#: inc/taiowc-option.php:187
+msgid "Cart"
+msgstr "Carrito"
+
+#: inc/taiowc-option.php:607 inc/taiowc-option.php:684
+msgid "Cart BG Color"
+msgstr "Color de Fondo del Carrito"
+
+#: inc/taiowc-option.php:185
+msgid "Cart Heading"
+msgstr "Encabezado del Carrito"
+
+#: inc/taiowc-option.php:562 inc/taiowc-option.php:615
+msgid "Cart Icon Color"
+msgstr "Color del Ícono del Carrito"
+
+#: inc/taiowc-option.php:130
+msgid "Cart Open Style"
+msgstr "Estilo de Apertura del Carrito"
+
+#: inc/taiowc-option.php:236
+msgid "Cart Open Style (Pro)"
+msgstr "Estilo de Apertura del Carrito (Pro)"
+
+#: inc/taiowc-option.php:1076
+msgid "Cart Panel (Pro)"
+msgstr "Panel del Carrito (Pro)"
+
+#: inc/taiowc-option.php:736
+msgid "Cart Panel May you like Style (Pro)"
+msgstr "Panel del Carrito Estilo 'Puede Gustarte' (Pro)"
+
+#: inc/taiowc-option.php:972
+msgid "Cart Panel Notification (Pro)"
+msgstr "Notificación del Panel del Carrito (Pro)"
+
+#: inc/taiowc-option.php:798
+msgid "Cart Panel payment Style (Pro)"
+msgstr "Estilo de Pago del Panel del Carrito (Pro)"
+
+#: inc/taiowc-option.php:640
+msgid "Cart Panel Style (Pro)"
+msgstr "Estilo del Panel del Carrito (Pro)"
+
+#: inc/taiowc-option.php:160
+msgid "Cart Product Order (Pro)"
+msgstr "Orden de los Productos del Carrito (Pro)"
+
+#: inc/taiowc-option.php:261
+msgid "Cart Settings"
+msgstr "Configuración del Carrito"
+
+#: inc/taiowc-option.php:71 inc/taiowc-option.php:486
+msgid "Cart Style"
+msgstr "Estilo del Carrito"
+
+#: inc/taiowc.php:562
+msgid "Cart Updated"
+msgstr "Carrito Actualizado"
+
+#: inc/taiowc-setting.php:109
+msgid "Check Doc"
+msgstr "Ver Documento"
+
+#: inc/taiowc-setting.php:775
+msgid "Choose an Image"
+msgstr "Elegir una Imagen"
+
+#: inc/taiowc-option.php:218
+msgid "Choose Cart Icon (Pro)"
+msgstr "Elegir Ícono del Carrito (Pro)"
+
+#: inc/taiowc-option.php:333
+msgid "Choose Product"
+msgstr "Elegir Producto"
+
+#: inc/taiowc-option.php:669
+msgid "close Color"
+msgstr "Color de Cerrar"
+
+#: inc/taiowc-setting.php:115
+msgid "Contact Support"
+msgstr "Contactar Soporte"
+
+#: inc/taiowc-option.php:866
+msgid "Coupon Box BG Color"
+msgstr "Color de Fondo del Cuadro de Cupón"
+
+#: inc/taiowc-option.php:873
+msgid "Coupon Box Border Color"
+msgstr "Color del Borde del Cuadro de Cupón"
+
+#: inc/taiowc-option.php:887
+msgid "Coupon Box Submit Color"
+msgstr "Color del Botón de Envío del Cuadro de Cupón"
+
+#: inc/taiowc-option.php:880
+msgid "Coupon Box Text Color"
+msgstr "Color del Texto del Cuadro de Cupón"
+
+#: inc/taiowc-option.php:902
+msgid "Coupon Code BG Color"
+msgstr "Color de Fondo del Código de Cupón"
+
+#: inc/taiowc-option.php:909
+msgid "Coupon Code Border Color"
+msgstr "Color del Borde del Código de Cupón"
+
+#: inc/taiowc-option.php:931
+msgid "Coupon Code Button Bg Color"
+msgstr "Color de Fondo del Botón del Código de Cupón"
+
+#: inc/taiowc-option.php:938
+msgid "Coupon Code Button Text Color"
+msgstr "Color del Texto del Botón del Código de Cupón"
+
+#: inc/taiowc-option.php:923
+msgid "Coupon Code Offer Color"
+msgstr "Color de la Oferta del Código de Cupón"
+
+#: inc/taiowc-option.php:916
+msgid "Coupon Code Text Color"
+msgstr "Color del Texto del Código de Cupón"
+
+#: inc/taiowc-option.php:419
+msgid "COUPON SETTINGS"
+msgstr "CONFIGURACIONES DE CUPÓN"
+
+#: inc/taiowc-option.php:860
+msgid "Coupon Style (Pro)"
+msgstr "Estilo del Cupón (Pro)"
+
+#: inc/taiowc-option.php:894
+msgid "Coupon View Color"
+msgstr "Color de Vista del Cupón"
+
+#: inc/taiowc-option.php:336
+msgid "Cross Sell"
+msgstr "Venta Cruzada"
+
+#: inc/taiowc-option.php:1031 inc/taiowc-option.php:1061
+msgid "Disable"
+msgstr "Deshabilitar"
+
+#: inc/taiowc-option.php:1045
+msgid "Disable Cart Price"
+msgstr "Deshabilitar Precio del Carrito"
+
+#: inc/taiowc-option.php:1038
+msgid "Disable Cart Quantity"
+msgstr "Deshabilitar Cantidad del Carrito"
+
+#: inc/taiowc-option.php:1096
+msgid "Disable Coupon"
+msgstr "Deshabilitar Cupón"
+
+#: inc/taiowc-option.php:1062
+msgid "Disable Fixed Cart / Floating Cart in mobile"
+msgstr "Deshabilitar Carrito Fijo / Carrito Flotante en Móviles"
+
+#: inc/taiowc-option.php:1032
+msgid "Disable Menu Cart / Shortcode Cart in mobile"
+msgstr "Deshabilitar Carrito en el Menú / Carrito de Shortcode en Móviles"
+
+#: inc/taiowc-option.php:1082
+msgid "Disable Product you may like"
+msgstr "Deshabilitar Producto que Puede Gustar"
+
+#: inc/taiowc-option.php:1068
+msgid "Disable Quantity"
+msgstr "Deshabilitar Cantidad"
+
+#: inc/taiowc-option.php:1089
+msgid "Disable Shipping"
+msgstr "Deshabilitar Envío"
+
+#: inc/taiowc-option.php:402
+msgid "Discount"
+msgstr "Descuento"
+
+#: inc/taiowc-option.php:401
+msgid "Discount Text"
+msgstr "Texto de Descuento"
+
+#: inc/taiowc-setting.php:476
+#, php-format
+msgid ""
+"Display cart in the header menu <span class=\"pro-ftr\">(Pro)</span>. <br /> "
+"<br /> Go to the Appearance > %s . Check \"TH All In One Woo Cart\" and "
+"Click \"Add to menu\" button. <br /> <br /> "
+msgstr ""
+"Mostrar carrito en el menú del encabezado <span class=\"pro-ftr\">(Pro)"
+"</span>. <br /><br /> Ve a Apariencia > %s. Marca \"TH All In One Woo Cart\" "
+"y haz clic en el botón \"Agregar al menú\". <br /><br />"
+
+#: th-all-in-one-woo-cart.php:88 inc/taiowc-setting.php:109
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/taiowc-option.php:137
+msgid "Dropdown on Click (Pro)"
+msgstr "Desplegable al Hacer Clic (Pro)"
+
+#: inc/themehunk-menu/th-option/header.php:32
+msgid "Elementor + WooCommerce Free WordPress Theme."
+msgstr "Tema Gratuito de WordPress Elementor + WooCommerce."
+
+#: inc/taiowc-option.php:196
+msgid "Empty Cart Button Text"
+msgstr "Texto del Botón de Carrito Vacío"
+
+#: inc/taiowc-option.php:207
+msgid "Empty Cart Button URL"
+msgstr "URL del Botón de Carrito Vacío"
+
+#: inc/taiowc-option.php:316
+msgid "Enable"
+msgstr "Habilitar"
+
+#: inc/taiowc-option.php:63
+msgid "Enable Cart"
+msgstr "Habilitar Carrito"
+
+#: inc/taiowc-option.php:436
+msgid "Enter your Promo Code"
+msgstr "Ingrese su Código Promocional"
+
+#: inc/taiowc-option.php:1001
+msgid "Error BG Color"
+msgstr "Color de Fondo de Error"
+
+#: inc/taiowc-option.php:1008
+msgid "Error Text Color"
+msgstr "Color del Texto de Error"
+
+#: inc/taiowc-option.php:571 inc/taiowc-option.php:1055
+msgid "FIXED CART / FLOATING CART (Pro)"
+msgstr "CARRITO FIJO / CARRITO FLOTANTE (Pro)"
+
+#: inc/taiowc-option.php:84
+msgid "Fixed Cart Position"
+msgstr "Posición del Carrito Fijo"
+
+#: inc/taiowc-option.php:119
+msgid "Fixed Cart Position From Bottom"
+msgstr "Posición del Carrito Fijo desde Abajo"
+
+#: inc/taiowc-option.php:108
+msgid "Fixed Cart Position From Left"
+msgstr "Posición del Carrito Fijo desde la Izquierda"
+
+#: inc/taiowc-option.php:98
+msgid "Fixed Cart Position From Right"
+msgstr "Posición del Carrito Fijo desde la Derecha"
+
+#: inc/taiowc-option.php:52 inc/taiowc-option.php:55
+msgid "General"
+msgstr "General"
+
+#: inc/taiowc-setting.php:112
+msgid "Get connected to our Facebook. Join our User friendly community."
+msgstr ""
+"Conéctese con nosotros en Facebook. Únase a nuestra comunidad amigable para "
+"usuarios."
+
+#: inc/taiowc-setting.php:118
+msgid "Give us your valuable feedback"
+msgstr "Danos tu valiosa opinión"
+
+#: inc/themehunk-menu/th-option/th-option.php:19
+msgid "Grow your business with ThemeHunk free/pro themes & plugins."
+msgstr ""
+"Haz crecer tu negocio con los temas y complementos gratuitos/pro de "
+"ThemeHunk."
+
+#: inc/themehunk-menu/th-option/sidebar.php:37
+msgid ""
+"Have a question, we are happy to help! Get in touch with our support team."
+msgstr ""
+"¿Tienes una pregunta? ¡Estamos encantados de ayudarte! Ponte en contacto con "
+"nuestro equipo de soporte."
+
+#: inc/taiowc-option.php:677
+msgid "Header BG Color"
+msgstr "Color de Fondo del Encabezado"
+
+#: inc/taiowc-option.php:324
+msgid "Heading"
+msgstr "Encabezado"
+
+#: inc/taiowc-option.php:743 inc/taiowc-option.php:805
+msgid "Heading BG Color"
+msgstr "Color de Fondo del Encabezado"
+
+#: inc/taiowc-option.php:662 inc/taiowc-option.php:750
+#: inc/taiowc-option.php:812
+msgid "Heading Color"
+msgstr "Color del Encabezado"
+
+#: inc/taiowc-option.php:175
+msgid "Hide Cart from Pages"
+msgstr "Ocultar Carrito en Páginas"
+
+#: inc/taiowc-option.php:43
+msgid "How To Add"
+msgstr "Cómo Añadir"
+
+#: inc/taiowc-option.php:37
+msgid "HOW TO ADD CART IN YOUR WEBSITE?"
+msgstr "¿CÓMO AÑADIR EL CARRITO EN TU SITIO WEB?"
+
+#. Author URI of the plugin
+msgid "https://themehunk.com"
+msgstr "https://themehunk.com"
+
+#. URI of the plugin
+msgid "https://themehunk.com/th-all-in-one-woo-cart/"
+msgstr "https://themehunk.com/th-all-in-one-woo-cart/"
+
+#: inc/taiowc-option.php:655
+msgid "Icon Color"
+msgstr "Color del Ícono"
+
+#: inc/taiowc-option.php:524 inc/taiowc-option.php:578
+msgid "Icon Size"
+msgstr "Tamaño del Ícono"
+
+#: inc/themehunk-menu/th-option/sidebar.php:7
+msgid ""
+"If you like the free version of this plugin, you will LOVE the full version "
+"of plugin which includes numerous Advanced features, Custom Style and more "
+"useful options to customize your plugins."
+msgstr ""
+"Si te gusta la versión gratuita de este complemento, te ENCANTARÁ la versión "
+"completa que incluye numerosas características avanzadas, estilos "
+"personalizados y más opciones útiles para personalizar tus complementos."
+
+#: inc/taiowc-setting.php:115
+msgid "If you need any help you can contact to our support team"
+msgstr "Si necesitas ayuda, puedes contactar a nuestro equipo de soporte"
+
+#: inc/themehunk-menu/th-option/th-option.php:125
+msgid "Install Now"
+msgstr "Instalar Ahora"
+
+#: inc/taiowc-option.php:34
+msgid "Integration"
+msgstr "Integración"
+
+#: inc/taiowc-setting.php:112
+msgid "Join Facebook Group"
+msgstr "Únete al Grupo de Facebook"
+
+#: inc/taiowc-setting.php:112
+msgid "Join Group"
+msgstr "Únete al Grupo"
+
+#: inc/taiowc-option.php:1169 inc/themehunk-menu/plugins-list.php:55
+msgid "Lead Form Builder"
+msgstr "Constructor de Formularios de Captura"
+
+#: inc/themehunk-menu/th-option/sidebar.php:21
+msgid "Leave us a review"
+msgstr "Déjanos una reseña"
+
+#: inc/taiowc-option.php:89
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/taiowc-option.php:833
+msgid "Link Color"
+msgstr "Color del Enlace"
+
+#: th-all-in-one-woo-cart.php:86
+msgid "Live Demo"
+msgstr "Demostración en Vivo"
+
+#: inc/taiowc-option.php:489
+msgid "MENU CART / SHORTCODE CART (Pro)"
+msgstr "CARRITO DEL MENÚ / CARRITO POR SHORTCODE (Pro)"
+
+#: inc/taiowc-option.php:1025
+msgid "Menu Cart / Shortcode Cart (Pro)"
+msgstr "Carrito del Menú / Carrito por Shortcode (Pro)"
+
+#: inc/taiowc-setting.php:476
+msgid "Menu Screen"
+msgstr "Pantalla del Menú"
+
+#: inc/taiowc-option.php:1022
+msgid "Mobile Cart"
+msgstr "Carrito Móvil"
+
+#: inc/taiowc-setting.php:115
+msgid "Need Help ?"
+msgstr "¿Necesitas Ayuda?"
+
+#: inc/themehunk-menu/th-option/th-option.php:52
+msgid "No plugin specified"
+msgstr "No se especificó ningún complemento"
+
+#: inc/taiowc-option.php:150
+msgid "Number of Product"
+msgstr "Cantidad de Producto"
+
+#: inc/taiowc-markup.php:164 inc/taiowc-option.php:365
+msgid "Payment Details"
+msgstr "Detalles del Pago"
+
+#: inc/taiowc-option.php:364
+msgid "Payment Heading"
+msgstr "Encabezado del Pago"
+
+#: inc/taiowc-option.php:358
+msgid "Payment Settings (Pro)"
+msgstr "Configuración de Pago (Pro)"
+
+#: inc/taiowc-option.php:435
+msgid "Placeholder Text"
+msgstr "Texto del Marcador de Posición"
+
+#: inc/themehunk-menu/th-option/th-option.php:73
+msgid "Plugin Successfully Activated"
+msgstr "Complemento Activado Exitosamente"
+
+#: inc/themehunk-menu/th-option/header.php:19
+msgid "Plugins"
+msgstr "Complementos"
+
+#: th-all-in-one-woo-cart.php:92
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: inc/taiowc-option.php:541
+msgid "Price Color"
+msgstr "Color del Precio"
+
+#: inc/taiowc-option.php:514
+msgid "Price Font Size"
+msgstr "Tamaño de Fuente del Precio"
+
+#: inc/taiowc-option.php:783
+msgid "Product Add to cart BG Color"
+msgstr "Color de Fondo del Botón Agregar al Carrito del Producto"
+
+#: inc/taiowc-option.php:789
+msgid "Product Add to cart Color"
+msgstr "Color del Botón Agregar al Carrito del Producto"
+
+#: inc/taiowc.php:526
+msgid "Product Added"
+msgstr "Producto Añadido"
+
+#: inc/taiowc-option.php:692
+msgid "Product BG Color"
+msgstr "Color de Fondo del Producto"
+
+#: inc/taiowc-option.php:757
+msgid "Product Bg Color"
+msgstr "Color de Fondo del Producto"
+
+#: inc/taiowc-option.php:727
+msgid "Product Border Color"
+msgstr "Color del Borde del Producto"
+
+#: inc/taiowc-option.php:713
+msgid "Product Delete Color"
+msgstr "Color del Borrado del Producto"
+
+#: inc/taiowc-option.php:270
+msgid "Product Image"
+msgstr "Imagen del Producto"
+
+#: inc/taiowc-option.php:264
+msgid "Product List (Pro)"
+msgstr "Lista de Productos (Pro)"
+
+#: inc/taiowc-option.php:284
+msgid "Product Price"
+msgstr "Precio del Producto"
+
+#: inc/taiowc-option.php:777
+msgid "Product Price Color"
+msgstr "Color del Precio del Producto"
+
+#: inc/taiowc-option.php:291
+msgid "Product Quantity"
+msgstr "Cantidad del Producto"
+
+#: inc/taiowc-option.php:298
+msgid "Product Rating"
+msgstr "Calificación del Producto"
+
+#: inc/taiowc-option.php:706 inc/taiowc-option.php:771
+msgid "Product Rating Color"
+msgstr "Color de la Calificación del Producto"
+
+#: inc/taiowc-option.php:347
+msgid "Product Slug"
+msgstr "Slug del producto"
+
+#: inc/taiowc-option.php:720
+msgid "Product Text Color"
+msgstr "Color del texto del producto"
+
+#: inc/taiowc-option.php:277
+msgid "Product Title"
+msgstr "Título del producto"
+
+#: inc/taiowc-option.php:699 inc/taiowc-option.php:764
+msgid "Product Title Color"
+msgstr "Color del título del producto"
+
+#: inc/taiowc-option.php:310
+msgid "PRODUCTS YOU MAY ALSO LIKE (Pro)"
+msgstr "PRODUCTOS QUE TAMBIÉN TE PUEDEN GUSTAR (Pro)"
+
+#: inc/taiowc-option.php:325
+msgid "Products you may like"
+msgstr "Productos que te pueden gustar"
+
+#: inc/taiowc.php:301
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: inc/taiowc-option.php:548 inc/taiowc-option.php:623
+msgid "Quantity BG Color"
+msgstr "Color de fondo de la cantidad"
+
+#: inc/taiowc-option.php:555 inc/taiowc-option.php:630
+msgid "Quantity Color"
+msgstr "Color de la cantidad"
+
+#: inc/taiowc-option.php:338
+msgid "Related"
+msgstr "Relacionado"
+
+#: inc/taiowc.php:326
+msgid "Remove this item"
+msgstr "Eliminar este artículo"
+
+#: inc/taiowc-setting.php:96
+msgid "Reset all"
+msgstr "Restablecer todo"
+
+#: inc/taiowc-option.php:1111
+msgid "Reset All Plugin Settings"
+msgstr "Restablecer todas las configuraciones del complemento"
+
+#: inc/taiowc-option.php:1108
+msgid "Reset All Setting"
+msgstr "Restablecer todas las configuraciones"
+
+#: inc/taiowc-setting.php:118
+msgid "Review"
+msgstr "Reseña"
+
+#: inc/taiowc-option.php:88
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/taiowc-setting.php:98
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: th-all-in-one-woo-cart.php:64
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: inc/taiowc-option.php:387
+msgid "Shipping"
+msgstr "Envío"
+
+#: inc/taiowc-option.php:386
+msgid "Shipping Text"
+msgstr "Texto de envío"
+
+#: inc/taiowc-option.php:470
+msgid "Show Added Coupon"
+msgstr "Mostrar cupón añadido"
+
+#: inc/taiowc-option.php:426
+msgid "Show Coupon"
+msgstr "Mostrar cupón"
+
+#: inc/taiowc-option.php:453
+msgid "Show Coupon List"
+msgstr "Mostrar lista de cupones"
+
+#: inc/taiowc-option.php:394
+msgid "Show Discount"
+msgstr "Mostrar descuento"
+
+#: inc/taiowc-option.php:648
+msgid "Show Icon"
+msgstr "Mostrar ícono"
+
+#: inc/taiowc-option.php:980
+msgid "Show Notification"
+msgstr "Mostrar notificación"
+
+#: inc/taiowc-option.php:497
+msgid "Show Price"
+msgstr "Mostrar precio"
+
+#: inc/taiowc-option.php:506 inc/taiowc-option.php:599
+msgid "Show Quantity"
+msgstr "Mostrar cantidad"
+
+#: inc/taiowc-option.php:379
+msgid "Show Shipping"
+msgstr "Mostrar envío"
+
+#: inc/taiowc-option.php:135
+msgid "Slide Left (Pro)"
+msgstr "Deslizar hacia la izquierda (Pro)"
+
+#: inc/taiowc-option.php:134
+msgid "Slide Right"
+msgstr "Deslizar hacia la derecha"
+
+#: inc/taiowc-markup.php:169 inc/taiowc-option.php:372
+msgid "Sub Total"
+msgstr "Subtotal"
+
+#: inc/taiowc-option.php:371
+msgid "Sub Total Text"
+msgstr "Texto del subtotal"
+
+#: inc/taiowc-setting.php:118
+msgid "Submit a review"
+msgstr "Enviar una reseña"
+
+#: inc/themehunk-menu/th-option/sidebar.php:38
+msgid "Submit a Ticket"
+msgstr "Enviar un ticket"
+
+#: inc/themehunk-menu/th-option/sidebar.php:23
+msgid "Submit review"
+msgstr "Enviar reseña"
+
+#: inc/taiowc-option.php:987
+msgid "Success BG Color"
+msgstr "Color de fondo de éxito"
+
+#: inc/taiowc-option.php:994
+msgid "Success Text Color"
+msgstr "Color del texto de éxito"
+
+#: inc/taiowc-option.php:151
+msgid "Sum of quantity of all products"
+msgstr "Suma de la cantidad de todos los productos"
+
+#: th-all-in-one-woo-cart.php:90 inc/themehunk-menu/th-option/sidebar.php:36
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/taiowc-option.php:826
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: inc/taiowc-option.php:1147 inc/themehunk-menu/plugins-list.php:4
+msgid "TH Advance Product Search"
+msgstr "TH Búsqueda Avanzada de Productos"
+
+#: inc/themehunk-menu/plugins-list.php:17
+msgid "Th All In One Woo Cart"
+msgstr "TH Carrito Todo en Uno para WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"TH All In One Woo Cart is a perfect choice to display Cart on your website "
+"and improve your potential customer’s buying experience. This plugin will "
+"add Floating Cart in your website.  Customers can update or remove products "
+"from the cart without reloading the cart continuously. It is a fully "
+"Responsive, mobile friendly plugin and supports many advanced features."
+msgstr ""
+"TH All In One Woo Cart es una excelente opción para mostrar el carrito en tu "
+"sitio web y mejorar la experiencia de compra de tus clientes potenciales. "
+"Este complemento agregará un carrito flotante en tu sitio web. Los clientes "
+"pueden actualizar o eliminar productos del carrito sin tener que recargarlo "
+"continuamente. Es completamente responsivo, compatible con móviles y admite "
+"muchas funciones avanzadas."
+
+#: inc/taiowc-setting.php:52
+msgid ""
+"TH All In One Woo Cart requires WooCommerce to work. Make sure that you have "
+"installed and activated WooCommerce Plugin."
+msgstr ""
+"TH All In One Woo Cart requiere WooCommerce para funcionar. Asegúrate de que "
+"tienes instalado y activado el complemento WooCommerce."
+
+#: inc/taiowc-option.php:1158 inc/themehunk-menu/plugins-list.php:30
+msgid "Th Product Compare"
+msgstr "TH Comparar Productos"
+
+#: inc/themehunk-menu/th-option/header.php:31
+msgid "TH Shop Mania Free Theme"
+msgstr "TH Shop Mania Tema Gratis"
+
+#: inc/taiowc-option.php:1136 inc/themehunk-menu/plugins-list.php:43
+msgid "TH Variation Swatches"
+msgstr "TH Muestras de Variaciones"
+
+#. Author of the plugin
+#: inc/themehunk-menu/admin-menu.php:10
+#: inc/themehunk-menu/th-option/th-option.php:16
+msgid "ThemeHunk"
+msgstr "ThemeHunk"
+
+#: inc/themehunk-menu/th-option/th-option.php:18
+msgid "ThemeHunk Marketplace"
+msgstr "Mercado ThemeHunk"
+
+#: inc/themehunk-menu/plugins-list.php:79
+msgid "ThemeHunk Megamenu – Menu builder"
+msgstr "ThemeHunk Megamenu – Creador de Menús"
+
+#: inc/themehunk-menu/th-option/sidebar.php:4
+msgid "ThemeHunk Premium Plugins"
+msgstr "Complementos Premium de ThemeHunk"
+
+#: inc/taiowc-option.php:1123 inc/taiowc-option.php:1126
+msgid "Themehunk Useful Plugins"
+msgstr "Complementos Útiles de Themehunk"
+
+#: inc/taiowc-option.php:245
+msgid ""
+"These options will open cart panel as soon as product added to the cart."
+msgstr ""
+"Estas opciones abrirán el panel del carrito tan pronto como se añada un "
+"producto al carrito."
+
+#: inc/taiowc-option.php:409
+msgid "Total"
+msgstr "Total"
+
+#: inc/taiowc-option.php:408
+msgid "Total Text"
+msgstr "Texto del total"
+
+#: inc/taiowc-option.php:64
+msgid ""
+"Uncheck to disable Floating and Fixed cart. Still you can use \"Shortcode\" "
+"and \"Menu\" cart"
+msgstr ""
+"Desmarcar para desactivar el carrito flotante y fijo. Aún puedes usar el "
+"carrito con \"Shortcode\" y \"Menú\""
+
+#: inc/taiowc-option.php:471
+msgid "Uncheck to hide applied coupons list."
+msgstr "Desmarcar para ocultar la lista de cupones aplicados."
+
+#: inc/taiowc-option.php:428
+msgid "Uncheck to hide coupon details from cart panel."
+msgstr ""
+"Desmarcar para ocultar los detalles de los cupones del panel del carrito."
+
+#: inc/taiowc-option.php:454
+msgid "Uncheck to hide coupon list from cart panel."
+msgstr "Desmarcar para ocultar la lista de cupones del panel del carrito."
+
+#: inc/taiowc-option.php:395
+msgid "Uncheck to hide product discount from cart panel."
+msgstr ""
+"Desmarcar para ocultar el descuento del producto del panel del carrito."
+
+#: inc/taiowc-option.php:271
+msgid "Uncheck to hide product image from cart panel."
+msgstr "Desmarcar para ocultar la imagen del producto del panel del carrito."
+
+#: inc/taiowc-option.php:285
+msgid "Uncheck to hide product Price from cart panel."
+msgstr "Desmarcar para ocultar el precio del producto del panel del carrito."
+
+#: inc/taiowc-option.php:292
+msgid "Uncheck to hide product Quantity from cart panel."
+msgstr "Desmarcar para ocultar la cantidad del producto del panel del carrito."
+
+#: inc/taiowc-option.php:299
+msgid "Uncheck to hide product Rating from cart panel."
+msgstr ""
+"Desmarcar para ocultar la calificación del producto del panel del carrito."
+
+#: inc/taiowc-option.php:317
+msgid ""
+"Uncheck to hide product slider display below added product list in the cart "
+"panel. This slider display products from Cross Sell, Up Sell, Related or "
+"custom products depending on the option you choose below."
+msgstr ""
+"Desmarcar para ocultar la visualización del deslizador de productos debajo "
+"de la lista de productos añadidos en el panel del carrito. Este deslizador "
+"muestra productos de Venta Cruzada, Venta Adicional, Productos Relacionados "
+"o productos personalizados, dependiendo de la opción que elijas abajo."
+
+#: inc/taiowc-option.php:278
+msgid "Uncheck to hide product Title from cart panel."
+msgstr "Desmarcar para ocultar el título del producto del panel del carrito."
+
+#: inc/taiowc-option.php:380
+msgid "Uncheck to hide shipping details from cart panel."
+msgstr "Desmarcar para ocultar los detalles del envío del panel del carrito."
+
+#: inc/taiowc-setting.php:105
+msgid "Unlock TH All In One Woo Cart Pro"
+msgstr "Desbloquear TH All In One Woo Cart Pro"
+
+#: inc/taiowc-option.php:337
+msgid "Up Sell"
+msgstr "Venta Adicional"
+
+#: inc/taiowc-setting.php:105
+msgid "Upgrade Now"
+msgstr "Actualizar Ahora"
+
+#: inc/themehunk-menu/th-option/sidebar.php:8
+msgid "Upgrade To Premium Plugin"
+msgstr "Actualizar a Complemento Premium"
+
+#: inc/themehunk-menu/th-option/sidebar.php:14
+msgid ""
+"Upgrading to Premium plugins you will unlock a dozen of unique features that "
+"will take your website to the next level."
+msgstr ""
+"Al actualizar a complementos Premium desbloquearás una docena de funciones "
+"únicas que llevarán tu sitio web al siguiente nivel."
+
+#: inc/taiowc-setting.php:776
+msgid "Use Image"
+msgstr "Usar imagen"
+
+#: inc/taiowc-option.php:176
+msgid ""
+"Use post type/page id/slug separated by comma. For eg: post,contact-us,about-"
+"us .For all non woocommerce pages, use no-woocommerce. For checkout page use "
+"checkout, for cart page -> cart"
+msgstr ""
+"Usa el tipo de publicación/ID de página/slug separados por comas. Por "
+"ejemplo: post,contacto,nosotros. Para todas las páginas que no sean de "
+"WooCommerce, usa no-woocommerce. Para la página de pago usa checkout, para "
+"la página del carrito -> cart"
+
+#: inc/taiowc-option.php:349
+msgid "Use Product Slug separated by comma. For eg: product-1, product-2 "
+msgstr ""
+"Usa el slug de productos separados por comas. Por ejemplo: producto-1, "
+"producto-2"
+
+#: inc/taiowc-setting.php:481
+#, php-format
+msgid "Using php - %s"
+msgstr "Usando php - %s"
+
+#: inc/taiowc-setting.php:478
+#, php-format
+msgid "Using Shortcode - <code>[taiowc]</code><br /> <br />%s    "
+msgstr "Usando shortcode - <code>[taiowc]</code><br /> <br />%s    "
+
+#: inc/taiowc-setting.php:473
+msgid ""
+"Using these three methods you can display cart at your desired location."
+msgstr ""
+"Usando estos tres métodos puedes mostrar el carrito en la ubicación que "
+"desees."
+
+#: inc/themehunk-menu/th-option/sidebar.php:29
+msgid "Video Tutorials"
+msgstr "Tutoriales en video"
+
+#: inc/taiowc-option.php:461
+msgid "View Coupon Link Text"
+msgstr "Ver texto del enlace del cupón"
+
+#: inc/taiowc-option.php:462
+msgid "View Coupons"
+msgstr "Ver cupones"
+
+#: inc/themehunk-menu/th-option/header.php:34
+msgid "View Detail"
+msgstr "Ver detalle"
+
+#: inc/themehunk-menu/th-option/sidebar.php:15
+msgid "View Premium Plugins"
+msgstr "Ver complementos premium"
+
+#: inc/themehunk-menu/th-option/sidebar.php:30
+msgid ""
+"Want a guide? We have video tutorials to walk you through getting started."
+msgstr ""
+"¿Necesitas una guía? Tenemos tutoriales en video para ayudarte a comenzar."
+
+#: inc/taiowc-setting.php:109
+msgid "Want to know how this plugin works. Read our Documentation."
+msgstr ""
+"¿Quieres saber cómo funciona este complemento? Lee nuestra documentación."
+
+#: inc/themehunk-menu/th-option/sidebar.php:31
+msgid "Watch Videos"
+msgstr "Ver videos"
+
+#: inc/themehunk-menu/th-option/sidebar.php:22
+msgid "We would love to hear your feedback."
+msgstr "Nos encantaría escuchar tus comentarios."
+
+#: inc/themehunk-menu/th-option/sidebar.php:13
+msgid "Why Upgrade?"
+msgstr "¿Por qué actualizar?"
+
+#: inc/taiowc-option.php:1180 inc/themehunk-menu/plugins-list.php:67
+msgid "WP Popup Builder – Popup Forms & Newsletter"
+msgstr "WP Popup Builder – Formularios emergentes y boletines"
+
+#: inc/taiowc.php:441
+msgid "Your Cart is Empty"
+msgstr "Tu carrito está vacío"
+
+#: inc/taiowc-option.php:339
+msgid "Your Products"
+msgstr "Tus productos"

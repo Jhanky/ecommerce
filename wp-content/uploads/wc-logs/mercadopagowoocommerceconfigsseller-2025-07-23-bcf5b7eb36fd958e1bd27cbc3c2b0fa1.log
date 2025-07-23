@@ -1,0 +1,4 @@
+2025-07-23T06:08:24+00:00 ERROR Mercado pago gave error to get payment methods thumbnails: {"message":"Oops! Something went wrong...","error":"internal_server_error","status":500,"cause":[]} - Context: []
+2025-07-23T06:08:29+00:00 ERROR Mercado pago gave error to get payment methods thumbnails: {"code":"CPP_PM_0000000","status":418,"message":"Something went wrong"} - Context: []
+2025-07-23T06:08:50+00:00 ERROR Mercado pago gave error to get payment methods thumbnails: {"message":"Oops! Something went wrong...","error":"internal_server_error","status":500,"cause":[]} - Context: []
+2025-07-23T06:08:50+00:00 ERROR Mercado pago gave error to get payment methods thumbnails: {"message":"Oops! Something went wrong...","error":"internal_server_error","status":500,"cause":[]} - Context: []

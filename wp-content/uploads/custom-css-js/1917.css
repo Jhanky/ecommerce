@@ -1,0 +1,13 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body.woocommerce-checkout #primary {
+    max-width: 800px !important;
+    margin: 0 auto !important;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->
